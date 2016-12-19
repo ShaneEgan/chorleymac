@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="595fa543-95ca-4097-863d-93851b30203f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/landing-page-images/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/landing-page-images/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/landing-page-images/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/title_images.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/main.css" afterPath="$PROJECT_DIR$/_includes/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
     </list>
     <ignored path="chorleymac.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="title_images.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="title_images.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/title_images.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            <state relative-caret-position="60">
+              <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -122,11 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="468" column="22" selection-start-line="468" selection-start-column="22" selection-end-line="468" selection-end-column="22" />
+            <state relative-caret-position="558">
+              <caret line="473" column="22" selection-start-line="473" selection-start-column="22" selection-end-line="473" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -149,8 +143,8 @@
         <option value="$PROJECT_DIR$/_includes/js.html" />
         <option value="$PROJECT_DIR$/_includes/about.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/_includes/css/main.css" />
         <option value="$PROJECT_DIR$/_includes/title_images.html" />
+        <option value="$PROJECT_DIR$/_includes/css/main.css" />
       </list>
     </option>
   </component>
@@ -397,12 +391,12 @@
       <updated>1479419738699</updated>
       <workItem from="1479419741057" duration="1221000" />
       <workItem from="1479847699506" duration="7000" />
-      <workItem from="1482092700575" duration="7893000" />
+      <workItem from="1482092700575" duration="8173000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9121000" />
+    <option name="totallyTimeSpent" value="9401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
@@ -652,18 +646,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
+    <entry file="file://$PROJECT_DIR$/_includes/title_images.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="468" column="22" selection-start-line="468" selection-start-column="22" selection-end-line="468" selection-end-column="22" />
+        <state relative-caret-position="60">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/title_images.html">
+    <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        <state relative-caret-position="558">
+          <caret line="473" column="22" selection-start-line="473" selection-start-column="22" selection-end-line="473" selection-end-column="22" />
           <folding />
         </state>
       </provider>
