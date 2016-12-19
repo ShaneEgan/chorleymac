@@ -464,3 +464,7 @@ footer .footer-below {
     background-color: rgba(119, 119, 119, 0.1);
 }
 
+.no-padding {
+    padding-left: 0px;
+    padding-right: 0px;
+}
