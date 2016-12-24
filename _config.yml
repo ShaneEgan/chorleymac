@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  index:
+    title: index
+    output: true
 email: egnshane@gmail.com
 url: http://chorleymac.co.uk/
 description: Chorley Model Club - Friendly, local, multi discipline model flying club.
