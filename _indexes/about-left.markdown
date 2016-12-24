@@ -1,7 +1,7 @@
 ---
 title: About Left
-name: about-left
 date: 2016-12-24 19:48:00 Z
+name: about-left
 ---
 
 ### Hello
