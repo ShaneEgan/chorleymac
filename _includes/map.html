@@ -33,9 +33,9 @@
                 margin-bottom: 80px;
                 margin-top: 60px;
             ">
-                <h2>Find Us</h2>
-                <p>We are located within the Yarrow Valley park. The map show the exact location of our flying site. </p>
-                <p>Access to the field is just before the waste recycling centre; Post code PR7 3QN.</p>
+                {% for index_page in site.indexes %}
+                {% if index_page.name == "find-us" %}
+                {{index_page}}{% endif %}{% endfor %}
             </div>
         </div>
     </div>
