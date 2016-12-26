@@ -1,32 +1,14 @@
-Freelancer Jekyll theme
+Chorley Model Club
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+A simple website to improve the online presence of Chorley Model Club
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `you@email.com` in `_includes/contact_static.html` with your email address. refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+Check out the site: [chorleymac.co.uk](https://chorleymac.co.uk)
 
----
-```
+If running the site locally use the following commands:
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
+`bundle install`
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+`bundle exec jekyll serve`
 
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+This project is based of the Freelancer bootstrap theme.
