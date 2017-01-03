@@ -5,7 +5,12 @@ name: about-left
 ---
 
 ### Hello
-We are a friendly club that contains many disciplines. We currently have members that fly fixed wing, helicopters, quad copters.
-We welcome new members of all skill levels, we are able to teach you to fly.
+Welcome to Chorley Model Club (Formerly known as Chorley and South Ribble Model Society). BMFA Number: 0338
 
-If you are looking for a new club to fly at or looking to learn; Please get in touch.
+Our primary flying site is situation in Yarrow Valley park where we have a grass runway and pit area.
+
+We are a friendly club that contains many disciplines; Currently we have members that fly fixed wing, helicopters and quad copters.
+
+We welcome new members of all skill levels, we are able to teach you to fly and can now take you through BMFA certification for fixed wing and rotary.
+
+If you are looking for a new club to fly at or looking to learn; Please get in touch (See below).
