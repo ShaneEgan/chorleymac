@@ -19,7 +19,7 @@ name: about-right
     <tr>
         <td>Monday</td>
         <td>2pm - 8pm</td>
-        <td>Silent Flight only</td>
+        <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Tuesday</td>
@@ -29,12 +29,12 @@ name: about-right
     <tr>
         <td>Wednesday</td>
         <td>2pm - 8pm</td>
-        <td>Silent Flight only</td>
+        <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Thursday</td>
         <td>2pm - 8pm</td>
-        <td>Silent Flight only</td>
+        <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Friday</td>
@@ -44,7 +44,7 @@ name: about-right
     <tr>
         <td>Saturday</td>
         <td>11am - 4pm</td>
-        <td>Silent Flight only</td>
+        <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Sunday</td>
@@ -68,7 +68,7 @@ name: about-right
     <tr>
         <td>Monday</td>
         <td>12pm - 6pm</td>
-        <td>Silent Flight only</td>
+        <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Tuesday</td>
@@ -78,12 +78,12 @@ name: about-right
     <tr>
         <td>Wednesday</td>
         <td>12pm - 6pm</td>
-        <td>Silent Flight only</td>
+        <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Thursday</td>
         <td>12pm - 6pm</td>
-        <td>Silent Flight only</td>
+        <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Friday</td>
@@ -93,7 +93,7 @@ name: about-right
     <tr>
         <td>Saturday</td>
         <td>11am - 4pm</td>
-        <td>Silent Flight only</td>
+        <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Sunday</td>
