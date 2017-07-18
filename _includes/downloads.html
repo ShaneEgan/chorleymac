@@ -9,7 +9,10 @@
         </div>
         <div class="row">
             <div class="col-lg-12 text-center">
-                <button style="font-size:24px" type="button" class="btn btn-primary" href="{{ site.url }}download/membershipform.pdf">Member Application Form <i class="fa fa-file-pdf-o"></i></button>
+
+                <form method="get" action="{{ site.url }}download/membershipform.pdf">
+                    <button style="font-size:24px" type="submit" class="btn btn-primary">Member Application Form <i class="fa fa-file-pdf-o"></i></button>
+                </form>
             </div>
         </div>
     </div>
