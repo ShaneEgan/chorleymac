@@ -9,6 +9,8 @@
     {% include title_images.html %}
     {% include about.html %}
 
+    {% include downloads.html %}
+
     {% if site.contact == "static" %}
     {% include contact_static.html %}
     {% elsif site.contact == "disqus" %}
@@ -17,7 +19,7 @@
     {% include contact.html %}
     {% endif %}
 
-    {% include downloads.html %}
+
 
     {% include footer.html %}
     {% include js.html %}
