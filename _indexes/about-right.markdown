@@ -18,27 +18,27 @@ name: about-right
     <tbody>
     <tr>
         <td>Monday</td>
-        <td>2pm - 8pm</td>
+        <td>2pm - 9pm</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Tuesday</td>
-        <td>2pm - 8pm</td>
+        <td>2pm - 9pm</td>
         <td>None</td>
     </tr>
     <tr>
         <td>Wednesday</td>
-        <td>2pm - 8pm</td>
+        <td>2pm - 9pm</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Thursday</td>
-        <td>2pm - 8pm</td>
+        <td>2pm - 9pm</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Friday</td>
-        <td>2pm - 8pm</td>
+        <td>2pm - 9pm</td>
         <td>None</td>
     </tr>
     <tr>
