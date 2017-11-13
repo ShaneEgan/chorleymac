@@ -67,7 +67,7 @@ name: about-right
     <tbody>
     <tr>
         <td>Monday</td>
-        <td>12pm - 6pm*</td>
+        <td>12pm - 9pm</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
@@ -77,12 +77,12 @@ name: about-right
     </tr>
     <tr>
         <td>Wednesday</td>
-        <td>12pm - 6pm*</td>
+        <td>12pm - 9pm</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Thursday</td>
-        <td>12pm - 6pm*</td>
+        <td>12pm - 9pm</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
@@ -92,7 +92,7 @@ name: about-right
     </tr>
     <tr>
         <td>Saturday</td>
-        <td>11am - 4pm*</td>
+        <td>11am - 9pm</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
