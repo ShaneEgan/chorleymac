@@ -23,7 +23,7 @@ name: about-right
     </tr>
     <tr>
         <td>Tuesday</td>
-        <td>2pm - 9pm</td>
+        <td>2pm - 8pm*</td>
         <td>None</td>
     </tr>
     <tr>
@@ -38,17 +38,17 @@ name: about-right
     </tr>
     <tr>
         <td>Friday</td>
-        <td>2pm - 9pm</td>
+        <td>2pm - 8pm*</td>
         <td>None</td>
     </tr>
     <tr>
         <td>Saturday</td>
-        <td>11am - 4pm</td>
+        <td>11am - 4pm*</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Sunday</td>
-        <td>11am - 4pm</td>
+        <td>11am - 4pm*</td>
         <td>None</td>
     </tr>
     </tbody>
@@ -67,41 +67,43 @@ name: about-right
     <tbody>
     <tr>
         <td>Monday</td>
-        <td>12pm - 6pm</td>
+        <td>12pm - 6pm*</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Tuesday</td>
-        <td>12pm - 6pm</td>
+        <td>12pm - 6pm*</td>
         <td>None</td>
     </tr>
     <tr>
         <td>Wednesday</td>
-        <td>12pm - 6pm</td>
+        <td>12pm - 6pm*</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Thursday</td>
-        <td>12pm - 6pm</td>
+        <td>12pm - 6pm*</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Friday</td>
-        <td>12pm - 6pm</td>
+        <td>12pm - 6pm*</td>
         <td>None</td>
     </tr>
     <tr>
         <td>Saturday</td>
-        <td>11am - 4pm</td>
+        <td>11am - 4pm*</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Sunday</td>
-        <td>11am - 4pm</td>
+        <td>11am - 4pm*</td>
         <td>None</td>
     </tr>
     </tbody>
 </table>
+
+<br><b>* Silent flight can fly until 9pm</b>
 
 <br><b>Exceptions:</b> No flying on Christmas day, Remembrance Sunday or Good Friday <br>
 <b>Bank Holidays:</b> Flying hours are 12pm - 5pm
