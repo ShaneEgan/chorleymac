@@ -18,7 +18,7 @@ name: about-right
     <tbody>
     <tr>
         <td>Monday</td>
-        <td>2pm - 9pm</td>
+        <td>11am - 9pm</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
@@ -28,12 +28,12 @@ name: about-right
     </tr>
     <tr>
         <td>Wednesday</td>
-        <td>2pm - 9pm</td>
+        <td>11am - 9pm</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
         <td>Thursday</td>
-        <td>2pm - 9pm</td>
+        <td>11am - 9pm</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
@@ -43,7 +43,7 @@ name: about-right
     </tr>
     <tr>
         <td>Saturday</td>
-        <td>11am - 4pm*</td>
+        <td>11am - 9pm*</td>
         <td>Electric / Silent Flight only</td>
     </tr>
     <tr>
@@ -104,6 +104,6 @@ name: about-right
 </table>
 <b>Bank Holidays:</b> Flying hours are 12pm - 4pm*
 
-<br><b>* Silent flight can fly until 9pm during summer hours only</b>
+<br><b>* Silent flight models may fly 11.0am to 9.00pm any day of the week during BST only</b>
 
 <br><b>Exceptions:</b> No flying on Christmas day, Remembrance Sunday or Good Friday <br>
